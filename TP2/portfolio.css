@@ -1,0 +1,73 @@
+body{
+    background-color:beige;
+}
+
+.a1{
+    margin-top: 10px;
+    margin-bottom: 35px;
+    text-align: center;
+}
+.I-am{
+    background-color:rgb(141, 194, 240);
+    margin-top: 40px;
+}
+.clearfix{
+    text-align: justify;
+    margin-top: 70px;
+   
+}
+.img1{
+    width: 400px;
+    height: 450px;
+}
+ul{
+    list-style-type: none;
+}
+.a2{
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+.ulap{list-style-type: circle;}
+.img2{
+    width: 350px;
+    height: 300px;
+}
+a{
+text-decoration: none;
+}
+a:hover{
+    color: black;
+}
+footer{
+    background-color:white;
+    margin-top: 150px;
+}
+/*Css du parcours académique*/
+
+.bg-image{
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  /*Css du parcours académique*/
+  .L1{
+    text-align: justify;
+  }
+  .containerl{
+    margin-top: 100px;
+  }
+  .l-img{
+    width: 450px;
+    height: 320px;
+  }
+  /*Css de Contact*/
+  table{
+    
+    justify-content: center;
+  }
+  .c1{
+    margin-top: 80px;
+    margin-bottom: 80px;
+    width: 500px;
+  }
